@@ -2,9 +2,9 @@
 //#define BLYNK_TEMPLATE_ID   "YourTemplateID"
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
-char auth[]="Jx8vrQv6KG8O6nlveK6O79jtgZCsWWM4";
-char ssid[]="imran1";
-char pass[]="tcs_2020";
+char auth[]="your auth token";
+char ssid[]="your wifi name";
+char pass[]="wifi password";
 
 void setup()
 {
